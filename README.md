@@ -1,2 +1,3 @@
-# hf-appreceive
-Receive and evaluate applications submitted as HTML forms
+# hf-appreview
+Evaluate applications submitted and accept or reject.
+Acceptance transforms the data into the proper format for the logistics database.
